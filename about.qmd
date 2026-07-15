@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+## About Me
+My name is **Pushpendu Biswas** , and I graduated from **DBL**.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
+
